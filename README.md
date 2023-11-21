@@ -10,7 +10,7 @@ Olá, me chamo Bruno Henrique !
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno02199rj&layout=compact&theme=dracula)
 
 ## Ferramentas e Tecnologias
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img loading="lazy" src="https://img.icons8.com/color/48/docker.png" alt="docker" width="40" height="40" /> <img width="40" height="40" src="https://img.icons8.com/fluency/48/azure-1.png" alt="azure-1"/> <img width="40" height="40" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/> <img width="40" height="40" src="https://img.icons8.com/fluency/48/vite.png" alt="vite"/>
+<img width="40" height="40" src="https://img.icons8.com/color/48/net-framework.png" alt="net-framework"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img loading="lazy" src="https://img.icons8.com/color/48/docker.png" alt="docker" width="40" height="40" /> <img width="40" height="40" src="https://img.icons8.com/fluency/48/azure-1.png" alt="azure-1"/> <img width="40" height="40" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/> <img width="40" height="40" src="https://img.icons8.com/fluency/48/vite.png" alt="vite"/>
 
 
 
