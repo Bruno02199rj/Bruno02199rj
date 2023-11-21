@@ -7,3 +7,4 @@ Bem vindo ao meu perfil GitHub 👋
 📚 Em busca constante de conhecimento com foco em qualidade
 ⚡ Guitarrista nas  horas vagas 
 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
