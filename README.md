@@ -11,4 +11,4 @@ Olá, me chamo Bruno Henrique !
 
 ## Ferramentas e Tecnologias
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-<img loading="lazy" src="file:///C:/Users/hbrun/AppData/Roaming/Microsoft/Windows/Network%20Shortcuts/ubuntu-svgrepo-com.svg" width="40" height="40"/>
+<img loading="lazy" src="https://img.icons8.com/color/48/docker.png" alt="docker"/>" width="40" height="40"/>
