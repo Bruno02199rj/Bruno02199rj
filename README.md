@@ -12,3 +12,8 @@ Olá, me chamo Bruno Henrique !
 ## Ferramentas e Tecnologias
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img loading="lazy" src="https://img.icons8.com/color/48/docker.png" alt="docker" width="40" height="40" /> <img width="40" height="40" src="https://img.icons8.com/fluency/48/azure-1.png" alt="azure-1"/> <img width="40" height="40" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/>
 
+## Frameworks
+
+<img width="40" height="40" src="https://img.icons8.com/officel/16/react.png" alt="react"/> <img width="40" height="40" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
+
+
