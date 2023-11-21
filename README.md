@@ -3,9 +3,12 @@
 Olá, me chamo Bruno Henrique ! 
  - Bem vindo ao meu perfil GitHub 👋
  - 🖥️ Estudante de Ciência da Computação 
- - 🌱 Atualmente estou estudando C# / .Net / Desing Patterns / SOLID / KISS   ...
+ - 🌱 Atualmente estou estudando C# / .Net / Desing Patterns / SOLID / KISS / Docker   ...
  - 📚 Em busca constante de conhecimento com foco em qualidade
  - ⚡ Guitarrista nas  horas vagas 
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno02199rj&layout=compact&theme=dracula)
 
+## Ferramentas e Tecnologias
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<img loading="lazy" src="file:///C:/Users/hbrun/AppData/Roaming/Microsoft/Windows/Network%20Shortcuts/ubuntu-svgrepo-com.svg" width="40" height="40"/>
