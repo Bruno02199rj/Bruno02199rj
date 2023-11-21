@@ -7,5 +7,5 @@ Olá, me chamo Bruno Henrique !
  - 📚 Em busca constante de conhecimento com foco em qualidade
  - ⚡ Guitarrista nas  horas vagas 
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=UTILIZADOR&layout=compact&theme=dracula)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno02199rj&layout=compact&theme=dracula)
 
