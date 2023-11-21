@@ -10,5 +10,5 @@ Olá, me chamo Bruno Henrique !
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno02199rj&layout=compact&theme=dracula)
 
 ## Ferramentas e Tecnologias
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://img.icons8.com/color/48/docker.png" alt="docker"/>" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img loading="lazy" src="https://img.icons8.com/color/48/docker.png" alt="docker" width="40" height="40" />
+
