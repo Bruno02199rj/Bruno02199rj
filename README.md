@@ -5,7 +5,7 @@ Olá, me chamo Bruno Henrique !
  - 🖥️ Estudante de Ciência da Computação 
  - 🌱 Atualmente estou estudando C# / .Net / Design Patterns / SOLID / KISS / Docker   ...
  - 📚 Em busca constante de conhecimento com foco em qualidade
- - ⚡ Guitarrista nas  horas vagas 
+ 
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno02199rj&layout=compact&theme=dracula)
 
